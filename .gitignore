@@ -1,6 +1,5 @@
 *.class
 *.log
 *.DS_Store
-.vscode/
 bin/
 out/
