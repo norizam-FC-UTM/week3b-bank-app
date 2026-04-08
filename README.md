@@ -1,12 +1,12 @@
-# Bank Account System (Array Preparation)
+# Property Management System (Preparation)
 
 ## Objective
-This project introduces basic OOP using Java.
+This project introduces Relationship Between Classes (Association, composition, Aggregation, Inheritance).
 
 ## Instructions
 1. Run the program
-2. Understand how BankAccount works
-3. Prepare for next task: ARRAY implementation
+2. Understand how Prop Mgmnt App works
+3. Do the task step by step
 
 ## Next Lab
-- Convert this program into array-based system
+- open for further enhancement
